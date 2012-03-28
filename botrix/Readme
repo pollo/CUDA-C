@@ -1,0 +1,6 @@
+This folder contains three different implementation of the computaion of the Botrix Index:
+-java implementation
+-python implementaion
+-cuda implementation
+
+There is also a wrapper script for importing the cuda implementation in python and other stuff for comparing the performances
